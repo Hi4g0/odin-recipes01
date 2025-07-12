@@ -18,6 +18,9 @@ let pontosjogador = 0;
 function jogar() {
     const escolhacomputador = escolhadocomputador();
     const escolhajogador = escolhadojogador();
+function jogar() {
+    const escolhacomputador = escolhadocomputador();
+    const escolhajogador = escolhadojogador();
     if (escolhacomputador === escolhajogador) {
         console.log("Empate!");
     } else if (
@@ -37,9 +40,5 @@ function jogar() {
         console.log("EMApte gerral de pontos!");
     }
         
-}
-
-for (let i = 0; i < 5; i++) {
-    jogar();
-}
-
+    }
+}   
