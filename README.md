@@ -1,2 +1,2 @@
-# odin-recipes01
-meus projetos
+# projetos 
+meus projetos iniciais de quando comecei na area
