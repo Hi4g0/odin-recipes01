@@ -1,0 +1,22 @@
+.container-imagem {
+  background-image: url('img/willian-justen-de-vasconcellos-N8mjxrshh14-unsplash.jpg');
+
+  display: flex;
+  width: 40%;
+}
+
+.container-principal {
+  display: flex;
+  height: 100vh;
+ 
+}
+
+.container-formulario {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+    width: 60%;
+    padding: 2rem;
+
+}
+
